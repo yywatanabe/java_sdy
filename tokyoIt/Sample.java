@@ -2,7 +2,7 @@ package java_std01;
 
 public class Sample4 {
 	public static void main(String[] args) {
-		//アドレス空間
+		//配列変数
 		int[] address = {1,2,3};
 		System.out.println("配列変数を出力＝" + address);
 		System.out.println("address[1]を出力＝" + address[1]);
